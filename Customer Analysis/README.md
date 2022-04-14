@@ -1,38 +1,51 @@
 # Tableau
-Tableau dashboards of various data analysis
+Tableau dashboard of various Customer data analysis
 
-# Analysis done using the dataset
-1. Average values of Sales, Profit and Discount
-2. Profit generated statewise
-3. Correlation between profit and age
-4. Information icon of these charts in dashboard
-5. Regional quarterly average profit
+# Analysis done using the Dataset
+1. Revenue per state
+2. Revenue based on month of the year
+3. Revenue based on age
+4. Quantity - Discount Percentage Correlation
+5. Percentage of Revenue per region
+6. Revenue per category per gender
 
 # DataSet
 The dataset consists of the below columns.
-1. City
-2. Customer Age
-3. Customer Name
-4. Discount
-5. Number of records
-6. Order Date
-7. Order ID
-8. Order Priority
-9. Order Quantity
-10. Product Base Margin
-11. Product Category
-12. Product Container
-13. Product Name
-14. Product Sub-Category
-15. Profit
-16. Region
-17. Row ID
-18. Sales
-19. Ship Date
-20. Ship Mode
-21. Shipping Cost
-22. State
-23. Unit Price
-24. Zip Code
+1. OrderID
+2. OrderDate
+3. Status
+4. Item Id
+5. Sku (Item Ordered)
+6. Qty Ordered
+7. Price
+8. Value
+9. Discount Amount
+10. Total 
+11. Category
+12. Payment Method
+13. Bi St
+14. Cust ID
+15. Year
+16. Month
+17. Ref Num
+18. Name Prefix
+19. First Name
+20. Middle Initial
+21. Last Name
+22. Gender
+23. Age
+24. Full Name
+25. E Mail
+26. Customer Since
+27. SSN
+28. Phone No.
+29. Place Name
+30. County
+31. City 
+32. State
+33. Zip
+34. Region
+35. User Name
+36. Discount Percent
 
-Using these attributes the Walmart Retail Analysis is done and the dashboard has been created.
+Using these attributes the Customer Analysis is done and the dashboard has been created.
