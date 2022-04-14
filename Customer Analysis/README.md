@@ -1,6 +1,14 @@
 # Tableau
 Tableau dashboards of various data analysis
 
+# Analysis done using the dataset
+1. Revenue per state
+2. Revenue based on month of the year
+3. Revenue based on age
+4. Quantity - Discount Percentage correlation
+5. Percentage of revenue per region
+6. Revenue per category per gender
+
 # DataSet
 The dataset consists of the below columns.
 1. OrderID
@@ -40,4 +48,4 @@ The dataset consists of the below columns.
 35. User Name
 36. Discount Percent
 
-Using these attributes a Customer Analysis is done and a dashboard has been created.
+Using these attributes the Customer Analysis is done and a dashboard has been created.
